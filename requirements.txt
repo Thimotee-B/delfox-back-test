@@ -1,0 +1,4 @@
+grpcio==1.41.0
+grpcio-tools==1.41.0
+sqlalchemy==1.4.25
+protobuf==4.23.2
